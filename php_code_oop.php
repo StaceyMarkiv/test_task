@@ -144,4 +144,3 @@ $my_processor->processData($my_receiver->processed_result);
 
 $my_printer = new Printer(('My little printer'));
 $my_printer->processData($my_processor->processed_result);
-
